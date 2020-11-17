@@ -1,10 +1,10 @@
-name: 'aws-iam-authenticator installer'
+name: 'install aws-iam-authenticator'
 description: 'Install a specific version of aws-iam-authenticator'
 inputs: 
   version:
     description: 'Version of aws-iam-authenticator'
     required: true
-    default: '0.4.0'
+    default: '0.5.2'
 branding:
   icon: 'gift'
   color: 'blue'
